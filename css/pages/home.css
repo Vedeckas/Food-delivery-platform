@@ -1,2 +1,5 @@
 /*base*/
 @import '../base/layout.css';
+
+/*components*/
+@import '../components/button.css';
